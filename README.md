@@ -7,7 +7,7 @@ The focus is on building **end-to-end systems** — from data preprocessing to m
 
 Each project demonstrates practical problem-solving using real-world datasets and modern AI techniques.
 
----
+
 
 ## 📌 Projects Included
 
@@ -19,7 +19,7 @@ Each project demonstrates practical problem-solving using real-world datasets an
 * Achieved ~88% accuracy on review datasets
 * Deployed using Streamlit for real-time predictions
 
----
+
 
 ### 2. 🔍 RAG-Based Knowledge Assistant
 
@@ -28,7 +28,7 @@ Each project demonstrates practical problem-solving using real-world datasets an
 * Designed modular pipeline for query → retrieval → answer generation
 * Focused on improving contextual relevance and reducing hallucination
 
----
+
 
 ### 3. 📊 Customer Churn Prediction
 
@@ -37,7 +37,7 @@ Each project demonstrates practical problem-solving using real-world datasets an
 * Used Random Forest and evaluated using ROC-AUC (~0.91)
 * Visualized feature importance and model performance
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +49,7 @@ Each project demonstrates practical problem-solving using real-world datasets an
 * **Visualization:** Matplotlib, Seaborn
 * **Deployment:** Streamlit
 
----
+
 
 ## ⚙️ Key Skills Demonstrated
 
@@ -60,7 +60,7 @@ Each project demonstrates practical problem-solving using real-world datasets an
 * Building AI-powered applications
 * API development and system integration
 
----
+
 
 ## 📈 What This Repo Shows
 
@@ -68,7 +68,7 @@ Each project demonstrates practical problem-solving using real-world datasets an
 * Understanding of both traditional ML and modern AI approaches
 * Practical implementation of real-world use cases
 
----
+
 
 ## 🚀 Future Improvements
 
@@ -77,7 +77,7 @@ Each project demonstrates practical problem-solving using real-world datasets an
 * Improve UI/UX for AI applications
 * Expand into deep learning and computer vision projects
 
----
+
 
 ## 👩‍💻 Author
 
