@@ -20,16 +20,6 @@ Each project demonstrates practical problem-solving using real-world datasets an
 * Deployed using Streamlit for real-time predictions
 
 
-
-### 2. 🔍 RAG-Based Knowledge Assistant
-
-* Implemented a Retrieval-Augmented Generation (RAG) system
-* Combined document retrieval with response generation
-* Designed modular pipeline for query → retrieval → answer generation
-* Focused on improving contextual relevance and reducing hallucination
-
-
-
 ### 3. 📊 Customer Churn Prediction
 
 * Built a classification model to predict customer churn
