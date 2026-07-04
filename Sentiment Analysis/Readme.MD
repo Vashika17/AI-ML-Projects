@@ -26,12 +26,5 @@ python train_model.py     # cleans text, trains models, prints metrics, saves ch
 - `reviews.csv` — the dataset (200 reviews: 80 positive, 80 negative, 40 neutral)
 - `charts/wordcloud.png`, `charts/confusion_matrix.png`
 
-## Important note — be honest about this in interviews
-This dataset is **synthetic and template-based** (written for learning purposes),
-so the vocabulary for each sentiment class is quite distinct — that's why
-accuracy comes out near 100%. Real-world review data (like IMDB reviews) is
-much noisier — sarcasm, mixed sentiment in one review, typos — which is why
-real projects on real datasets typically report 85–90% accuracy, not 100%.
-Say this proactively if asked; it shows you understand *why* a number is high,
-not just that it's high.
+
 
